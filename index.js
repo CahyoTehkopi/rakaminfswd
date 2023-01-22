@@ -1,2 +1,2 @@
 console.log("HALLO RAKAMIN")
-console.log("conflict")
+console.log("HALLO ABOUT")
